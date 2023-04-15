@@ -1,0 +1,54 @@
+body {    background-color: #32bbcd;
+    font-family: Arial, sans-serif;    margin: 0;
+    padding: 0;}
+header {
+    background-color:black;    color: white;
+    padding: 20px;    display: flex;
+    justify-content: space-between;    align-items: center;
+}
+.my_image{    height: 200px;
+    width: 200px;
+    padding: 100px; }
+.gacci {
+
+    width: 100%;
+    background: #00ff9d;
+    color: white;
+    border-spacing: 1px;
+
+
+
+    background: #004b80;
+    padding: 5px;
+}
+
+h1 {    font-size: 36px;
+    margin: 0;}
+nav ul {
+    list-style-type: none;    margin: 0;
+    padding: 0;}
+nav ul li {
+    display: inline;}
+nav ul li a {
+    color: white;    text-decoration: none;
+    padding: 10px;}
+nav ul li a:hover {
+    color: white;}
+
+#biography {    padding: 50px;
+}
+#Work {    padding: 50px;
+}
+#skills {    padding: 50px;
+}
+#education {    padding: 50px;
+}
+#contact {    padding: 50px;
+    background-color: black;    color: white;
+}
+h2 {    font-size: 24px;
+}
+h3 {    font-size: 20px;
+    margin: 0;}.my_image{
+                   height: 200px;    width: 200px;
+               }
